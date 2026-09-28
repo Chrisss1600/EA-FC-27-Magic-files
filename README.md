@@ -5,7 +5,7 @@
 
 1. Baixe o FC27 Lite no Steam, EAapp ou Epic Games (é recomendável usar uma conta secundária).
 2. Inicie o jogo e complete o tutorial.
-3. Feche o jogo e todos os clientes do Steam, EAapp ou Epic Games.
+3. Feche o jogo e todos os clientes do Steam, EAapp ou Epic Games. (Recomendo a instalação pela Steam"
 4. Acesse a pasta do jogo e exclua os arquivos FC27.exe e dbdata.dll.
 5. Baixe e descompacte o arquivo com os "Magic Files".
 6. Da pasta "MagicFiles", copie todos os arquivos para a pasta do jogo. Ao copiar, será solicitado para substituir os arquivos, confirme a substituição.
