@@ -23,3 +23,6 @@
 18. Inicie o jogo através do arquivo FC27.exe na pasta do jogo.
 19. Jogue.
 20. É possível desativar as atualizações do Windows usando o programa da pasta "Windows Update Blocker" ou qualquer outro método, para evitar que o jogo seja desinstalado. Além disso, a ativação pode ser perdida durante a atualização dos drivers.
+
+# Link Video Tutorial + Arquivos
+https://drive.google.com/drive/folders/1JGiXxdc_W9BjaI26neDL_2kjRvRALYLz?usp=sharing
